@@ -1,0 +1,1 @@
+export const environment = {\n  production: true,\n  apiUrl: 'https://api.travelbooking.example'\n};
